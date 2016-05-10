@@ -1,0 +1,32 @@
+#header {
+	position: absolute;
+	height: 20px;
+	width: 98%;
+	background-color: blue;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px 0px 0px 0px;
+}
+
+input {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+button {
+	display: inline;;
+
+}
+
+#footer {
+	position: absolute;
+	margin-bottom: -10px;
+	height: 20px;
+	width: 98%;
+	background-color: blue;
+}
